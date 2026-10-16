@@ -2,18 +2,18 @@ TIMELESS WATCHES WEBSITE
 A modern and responsive watch showcase website designed to display luxury and classic watch collections. The website allows visitors to explore various watch brands, learn about the company, and contact the business for inquiries.
 
 Features
-Home page with featured watch collections
-Explore available watches
-Browse different watch brands
-About Us section
-Contact page
-Responsive design for desktop and mobile devices
+Home page with featured watch collections,
+Explore available watches,
+Browse different watch brands,
+About Us section,
+Contact page,
+Responsive design for desktop and mobile devices,
 Simple and user-friendly navigation
 
 Technologies Used
-HTML5
-CSS3
-JavaScript
+HTML5,
+CSS3,
+JavaScript,
 
 Project Structure
 TIMELESS-WATCHES-WEBSITE/
@@ -41,11 +41,11 @@ Visit the website:
 https://kagokelefe.github.io/TIMELESS-WATCHES-WEBSITE/
 
 Future Improvements
-User authentication and login system
-Shopping cart functionality
-Online payment integration
-Product search and filtering
-Customer reviews and ratings
+User authentication and login system,
+Shopping cart functionality,
+Online payment integration,
+Product search and filtering,
+Customer reviews and ratings,
 
 Author
 Kago Tlotlo Arnold Kelefe
